@@ -1,0 +1,47 @@
+*{
+
+    Margin:0;
+    
+    Padding:0;
+    
+    Border:0;
+}
+
+body{
+    background-color: cyan;
+    font-size: 16px;
+}
+
+section{
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    display: block;
+}
+section p {
+    padding-left: 0.5rem;
+}
+#bio{
+    list-style: none;
+    
+    display: inline-block;
+    
+}
+#bio ul{
+    margin-bottom: 0.1rem;
+}
+#bio li{
+    float: left;
+    margin: 0.3rem;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+/* Section - Professional Experience */
+
+ul{
+    margin: 0.5rem;
+}
+li{
+    margin-left: 1rem;
+}
